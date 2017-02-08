@@ -1,6 +1,3 @@
-/**
- * Created by macbookair on 08.02.17.
- */
 
 import React from 'react';
 import ReactDOM from 'react-dom';
